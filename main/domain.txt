@@ -1,1 +1,40 @@
+In the provided HTML and JavaScript code, several domains and websites are used for performing various types of searches and lookups. Here's a list of the domains and sites referenced in the code:
 
+    Google: Used for web search.
+        Domain: https://www.google.com
+
+    Bing: Used for web search.
+        Domain: https://www.bing.com
+
+    DuckDuckGo: Used for web search.
+        Domain: https://duckduckgo.com
+
+    Brave: Used for web search.
+        Domain: https://search.brave.com
+
+    Scammer.info: Used for searching scam-related information.
+        Domain: https://scammer.info
+
+    Shodan: Used for searching Internet-connected devices.
+        Domain: https://www.shodan.io
+
+    AOL: Used for web search.
+        Domain: https://search.aol.com
+
+    Infospace: Used for web search.
+        Domain: https://infospace.com
+
+    Whois: Used for domain WHOIS information lookup.
+        Domain: https://who.is
+
+    Hunter.io: Used for email-related searches and verifications.
+        Domain: https://hunter.io
+
+    IPQualityScore: Used for phone number lookups in various countries.
+        Domain (USA): https://www.ipqualityscore.com (Other countries are also used)
+
+    Dehashed: Used for checking if data breaches have occurred.
+        Domain: https://www.dehashed.com
+
+    Have I Been Pwned: Used for checking if email addresses have been compromised.
+        Domain: https://haveibeenpwned.com
